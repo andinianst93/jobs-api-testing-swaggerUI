@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://jobs-api-testing-adn.herokuapp.com/api/v1
+  - url: https://jobs-api-testing-swagger-ui.onrender.com/
     variables: {}
 paths:
   /auth/register:
